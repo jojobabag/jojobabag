@@ -5,7 +5,7 @@
 - 📫 How to reach me jaise marzi
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+- $  this line add by mukesh
 <!---
 jojobabag/jojobabag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
